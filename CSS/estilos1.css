@@ -1,0 +1,54 @@
+body.fondo-celeste {
+    background-color: lightblue;
+}
+
+.texto-grande {
+    font-size: 20px;
+}
+
+h2.blanco {
+    color: white;
+}
+
+h2.subrayado {
+    text-decoration: underline;
+}
+
+.negrita {
+    font-weight: bold;
+}
+
+.mayusculas {
+    text-transform: uppercase;
+}
+
+.justificado {
+    text-align: justify;
+}
+
+.tamano-12 {
+    font-size: 12px;
+}
+body {
+    font-size: 20px;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+p {
+    font-size: 16px;
+}
+
+p.color-navy {
+    color: navy;
+}
+
+p.uppercase {
+    text-transform: uppercase;
+}
+
+span.italic {
+    font-style: italic;
+}
